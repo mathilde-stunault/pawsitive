@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700|Source+Sans+Pro:400,600&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	text-align: center;
+}
+
+p {
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+}
